@@ -18,7 +18,7 @@ $(".start-button").click(function() {
     $(".step2img").css("height", "400px");
 });
 
-$(".qwq").dblclick(function() {
+$(".qwq").click(function() {
     $(".treasure").show();
     $(".step1").hide();
     $(".step2").hide();
