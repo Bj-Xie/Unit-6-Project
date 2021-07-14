@@ -3,6 +3,10 @@
     justify-content: center;
 }
 
+.fix2{
+    height: 275px;
+}
+
 .fix {
     height: 450px;
 }
